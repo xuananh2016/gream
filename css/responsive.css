@@ -1,0 +1,145 @@
+@media screen and (max-width: 991px) {
+    #banner {
+        height: 516px;
+    }
+    .khoiright1 {
+        display: none;
+    }
+    .menu {
+        left: 10px;
+        width: 98%;
+    }
+    .logo {
+        display: none;
+    }
+    #sanphamnoibat {
+        padding: 30px 5px 0 5px;
+    }
+    .khoi1 {
+        width: 23.3%;
+    }
+    .khoimo {
+        overflow: overlay;
+    }
+    .gt-dong1,
+    .gt-dong2 {
+        width: 80%;
+    }
+    .gt-text1 {
+        padding: 10px 20px 20px 100px;
+    }
+    .gt-dong2 {
+        height: 240px;
+    }
+    .khoitin1 {
+        width: 21%;
+    }
+    .tinhoa {
+        padding: 0 35px 100px 35px;
+        height: 1010px;
+    }
+    #gioithieu {
+        background: url(../images/slidegioithieu1.jpg);
+    }
+    #dichvusanpham {
+        height: 535px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .menu {
+        left: 0px;
+        width: 100%;
+    }
+    input[type="search"] {
+        width: 30px;
+    }
+    #banner {
+        height: 398px;
+    }
+    .gt-dong1,
+    .gt-dong2 {
+        width: 84%;
+    }
+    .gt-text1 {
+        padding: 2px 10px 20px 56px;
+        overflow: overlay;
+    }
+    .gt-text2 {
+        padding: 6px 61px 15px 15px;
+        overflow: overlay;
+    }
+    .tinhoa {
+        height: 1065px;
+    }
+    .dichvu {
+            padding-top: 130px;
+    }
+    #dichvusanpham {
+        height: 413px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    #banner {
+        position: none;
+    }
+    .menu {
+        padding-left: 15px;
+        height: 142px;
+        position: relative;
+        margin-top: -56PX;
+    }
+    .carousel-caption {
+        padding-bottom: 50px;
+    }
+    #sanphamnoibat {
+            height: 645px;
+    }
+    .khoi1 {
+        width: 22%;
+        height: 25%;
+    }
+    img.khoianh {
+        height: 100%;
+    }
+    .dichvu {
+        padding-top: 50px;
+    }
+    #dichvusanpham {
+        height: 260px;
+    }
+    .gt-dong1 {
+        width: 100%;
+    }
+    .gt-text1 {
+        height: 182%;
+        padding: 5px 5px 10px 23px;
+    }
+    .gt-dong2 {
+        margin: 110px auto;
+    }
+    .gt-text2 {
+        padding: 5px 0 5px 10px;
+        font-size: 0.9em;
+    }
+    .tinhoa {
+        padding: 0;
+    }
+    .khoitin1 {
+        margin: 5px 5px;
+        width: 22%;
+    }
+    img.khoitin1-img {
+        height: 195px;
+    }
+    .footer-bl {
+        width: 95%;
+    }
+    .lienHe {
+        width: 40%;
+    }
+    .infor {
+        width: 53%;
+    }
+}
